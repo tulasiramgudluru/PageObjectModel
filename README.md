@@ -1,2 +1,0 @@
-# pageobjectmodel
-pageobjectmodelframework
